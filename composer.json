@@ -1,5 +1,5 @@
 {
-    "name": "adinan-cenci/radio-browser",
+    "name": "bmitch/radio-browser",
     "description": "A library to fetch radio stations from the radio-browser.info catalog.", 
     "type": "library", 
     "keywords": ["radio", "music"], 
@@ -10,12 +10,17 @@
             "name": "Adinan Cenci",
             "email": "adinancenci@protonmail.com", 
             "role": "developer"
+        },
+        {
+            "name": "Bill Mitchell",
+            "email": "wkmitch@gmail.com",
+            "role": "developer"
         }
     ],
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/adinan-cenci/radio-browser"
+            "url": "https://github.com/bmitch/radio-browser"
         }, 
         {
             "type": "vcs",
